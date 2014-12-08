@@ -19,4 +19,12 @@ public class Main {
         // add for 5.5
         // add for 5.6
     }
+
+    /**
+     * bugfix/master/TDI-33333-Add_print2
+     */
+    public static void println() {
+        System.out.println();
+    }
+
 }
