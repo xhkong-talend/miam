@@ -18,4 +18,8 @@ public class Main {
         // TODO
         // add for 5.5
     }
+
+    public static void print2() {
+        // print2
+    }
 }
