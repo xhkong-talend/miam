@@ -6,12 +6,15 @@ import my.stomach.Stomach;
  */
 public class Main {
 
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		Stomach stomach = new Stomach();
-		System.out.println(stomach);
-	}
+    /**
+     * @param args
+     */
+    public static void main(String[] args) {
+        Stomach stomach = new Stomach();
+        System.out.println(stomach);
+    }
 
+    public static void practice1() {
+        // TODO
+    }
 }
