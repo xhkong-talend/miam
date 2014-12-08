@@ -26,5 +26,8 @@ public class Main {
     public static void println() {
         System.out.println();
     }
-
+    
+    public static void testSuShe(){
+    	System.out.println("test");
+    }
 }
