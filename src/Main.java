@@ -41,4 +41,12 @@ public class Main {
     public static void testSuShe() {
         System.out.println("test");
     }
+
+    /**
+     * bugfix/master/TDI-7
+     */
+    public static void println7() {
+        System.out.println();
+    }
+
 }
