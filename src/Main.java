@@ -22,4 +22,11 @@ public class Main {
     public static void print2() {
         // print2
     }
+
+    /**
+     * fixbug/5.5/TDI-5
+     */
+    public static void print3() {
+        // print2
+    }
 }
