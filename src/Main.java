@@ -30,6 +30,14 @@ public class Main {
         System.out.println();
     }
 
+    /**
+     * bugfix/master/TDI-4-
+     */
+    public static void println4() {
+        // tdi-1
+        System.out.println();
+    }
+
     public static void testSuShe() {
         System.out.println("test");
     }
