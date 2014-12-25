@@ -36,4 +36,11 @@ public class Main {
     public static void print8() {
         // print8
     }
+
+    /**
+     * fixbug/5.5/TDI-8
+     */
+    public static void print000() {
+        // print000
+    }
 }
